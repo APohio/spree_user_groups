@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_user_groups'
-  s.version     = '0.51.0'
+  s.version     = '2.4.5'
   s.summary     = 'Adds user groups'
   s.description = 'Provides opportunity to add some rules for calculation price depending on the user group'
   s.required_ruby_version = '>= 1.9.3'
